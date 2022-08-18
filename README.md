@@ -15,6 +15,8 @@
 			 增加“版本查询”、“更新日志”、“关于”选项，增加猜拳游戏
 			 Beta - 0.0.2 Part 1(English Updata)
 			 全新英语版本来临！修复少量漏洞
+                         Realease - 0.0.2 Part 2(English Updata)
+                         所有已知漏洞已全部修复，英语翻译完成。
 
 关于
 		    实用计算工具箱
@@ -45,6 +47,8 @@ Dev - 0.0.1
 			 Added "Version Query", "Changelog", "About" options, and added guessing games
 			 Beta - 0.0.2 Part 1(English Updata)
 			 The new English version is coming! Fixed a small number of vulnerabilities
+			 Realease - 0.0.2 Part 2(English Updata)
+                         All known vulnerabilities have been fully fixed and the English translation is complete
 
 concerning
 		    Utility calculation toolbox
