@@ -15,20 +15,18 @@
 			 增加“版本查询”、“更新日志”、“关于”选项，增加猜拳游戏
 			 Beta - 0.0.2 Part 1(English Updata)
 			 全新英语版本来临！修复少量漏洞
-                     Realease - 0.0.2 Part 2(English Updata)
-                     所有已知漏洞已全部修复，英语翻译完成。
 
 关于
-		         实用计算工具箱
-		         制作：嗯. QQ：1654316441
-		         本软件完全开源，禁止倒卖（虽然不会用人买） 
-		         整合了一些常用功能，还有点bug，凑合着用吧，我还在努力的修补漏洞
+		    实用计算工具箱
+		    制作：嗯. QQ：1654316441
+		    本软件完全开源，禁止倒卖（虽然不会用人买） 
+		    整合了一些常用功能，还有点bug，凑合着用吧，我还在努力的修补漏洞
 
 版本区别
-		        Release : 正式版，十分稳定
-		        Dev ：超前预览版，不稳定
-		        Beta : 测试预览版，比较稳定
-		        Preview : 公开预览版，更加稳定
+		   Release : 正式版，十分稳定
+		   Dev ：超前预览版，不稳定
+		   Beta : 测试预览版，比较稳定
+		   Preview : 公开预览版，更加稳定
        
        
  Version history
@@ -47,8 +45,6 @@ Dev - 0.0.1
 			 Added "Version Query", "Changelog", "About" options, and added guessing games
 			 Beta - 0.0.2 Part 1(English Updata)
 			 The new English version is coming! Fixed a small number of vulnerabilities
-			 Realease - 0.0.2 Part 2(English Updata)
-                         All known vulnerabilities have been fully fixed and the English translation is complete
 
 concerning
 		    Utility calculation toolbox
